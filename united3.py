@@ -66,4 +66,4 @@ def turn_on_active_cooling(percentage: int):
     return {"status": "Cooling activated", "percentage": percentage}
 
 
-}
+
